@@ -51,7 +51,7 @@
     "docpad": "6"
   },
   "dependencies": {
-    "marked": "https://github.com/InnovaCo/marked.git#multiple-headers"
+    "marked": "git+https://github.com/InnovaCo/marked.git#multiple-headers"
   },
   "devDependencies": {
     "coffee-script": "^1.9.1",
